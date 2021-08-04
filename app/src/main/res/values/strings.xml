@@ -1,15 +1,13 @@
 <resources>
     <string name="app_name">Movers-App</string>
 
-        <string name="app_signup">Sign Up!</string>
-        <string name="app_login">Login</string>
-        <string name="app_email">Email Address</string>
-        <string name="app_password">Password</string>
+    <string name="app_signup">Sign Up!</string>
+    <string name="app_login">Login</string>
+    <string name="app_email">Email Address</string>
+    <string name="app_password">Password</string>
 
-        <string name="app_Repassword">Re-EnterPassword</string>
-        <string name="app_forgot_password">Forgot Password?</string>
-
-
+    <string name="app_Repassword">ConfirmPassword</string>
+    <string name="app_forgot_password">Forgot Password?</string>
 
 
 </resources>
